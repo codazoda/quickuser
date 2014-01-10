@@ -1,12 +1,12 @@
-QuickUser.js - Quick User Javascript Library
-============================================
+QuickUser.js
+============
 
-A simple user management class implemented in Javascript. There are two
+A quick user management class implemented in Javascript. There are two
 versions, one that uses a cookie and another that uses HTML 5 local storage. 
 
 The class creates a new user ID, if one wasn't already created, and stores an
 array of user information. Additional key / value pairs can be added by the
-programmer. No user id or password is required, making login unnecessary. Login
+programmer. No user id or password is required making login unnecessary. Login
 credentials could be easily added and tracked, however.
 
 In order to use the library, simply include the QuickUser.js file into your
