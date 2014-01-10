@@ -1,5 +1,5 @@
-QuickUser
-=========
+Quick User Javascript Library
+=============================
 
 A simple user management class implemented in Javascript. There are two
 versions, one that uses a cookie and another that uses HTML 5 local storage. 
